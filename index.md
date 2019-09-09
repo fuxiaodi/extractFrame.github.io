@@ -2,18 +2,16 @@
 
 You can use the [editor on GitHub](https://github.com/fuxiaodi/extractFrame.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
+# How to extract still images from a video?
+## 1. use photoshop
+   . open photoshop, go to ->File, ->Open, -> select the .mov (a type of video format) file.
+     ![Image](C:\Users\FuX0339\OneDrive - University of Houston-Clear Lake\Desktop\file.png)
+   . click the arrow ( in the lower left corner)
+     ![Image](C:\Users\FuX0339\OneDrive - University of Houston-Clear Lake\Desktop\file2.png)
+   . set the parameters, see the following picture and click render.
+      ![Image](C:\Users\FuX0339\OneDrive - University of Houston-Clear Lake\Desktop\file3.png)
+## 2. use openCV
+### Use h
 
 - Bulleted
 - List
