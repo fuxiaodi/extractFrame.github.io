@@ -13,6 +13,7 @@ You can use the [editor on GitHub](https://github.com/fuxiaodi/extractFrame.gith
 ### get still images in the folder which stores the original video.
       ![Image](https://github.com/fuxiaodi/extractFrame.github.io/blob/master/file4.PNG?raw=true)
       
+      
 ## 2. use imutils (a python library) and openCV
 ### import imutils, codes: from imutils import FileVideoStream
 ### read the video: vs=FileVideoStream(path)
