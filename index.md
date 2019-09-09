@@ -5,7 +5,7 @@ You can use the [editor on GitHub](https://github.com/fuxiaodi/extractFrame.gith
 # How to extract still images from a video?
 ## 1. use photoshop
 ### open photoshop, go to ->File, ->Open, -> select the .mov (a type of video format) file.
-     ![Image](https://github.com/fuxiaodi/extractFrame.github.io/blob/master/file.png)
+     ![Image](https://github.com/fuxiaodi/extractFrame.github.io/blob/master/file.png?raw=true)
 ### click the arrow ( in the lower left corner)
      ![Image](https://github.com/fuxiaodi/extractFrame.github.io/blob/master/file2.png?raw=true)
 ### set the parameters, see the following picture and click render.
